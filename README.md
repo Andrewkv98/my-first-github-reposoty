@@ -7,3 +7,5 @@ New line was added localy
 One change yet
 
 THIS line was added in feature-2 branch
+
+Anothe modification in the feature-2 branch
